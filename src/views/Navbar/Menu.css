@@ -1,0 +1,15 @@
+.menuC{
+     scroll-behavior: smooth;
+ /*border: 1px solid rgba(0, 0, 0, 0.1);*/
+ /*box-shadow: 5px 5px 10px #e9e9e9,
+               -5px -5px 10px #ffffff;*/
+}
+
+.acc{
+    transition: 0.5s;
+}
+
+.acc:hover{
+    color: rgb(208, 208, 208);
+    font-size:large;
+}
